@@ -1,0 +1,11 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "name": "John",
+      "occupation": "Mechanical Engineer",
+      "date_applied": "17th June 2022",
+      "status": "accepted",
+    }
+  ]
+}
