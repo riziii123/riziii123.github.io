@@ -1,13 +1,24 @@
 {
   "status": "success",
-  "id": 1,
-  "first_name": "John",
-  "last_name": "Smith",
-  "image_url": "https://miro.medium.com/max/1050/1*Y6l_FDhxOI1AhjL56dHh8g.jpeg",
-  "occupation": "Mechanical Engineer",
-  "linkedin_url": "",
-  "resume_url": "",
-  "date_applied": "17th June 2022",
-  "status": "accepted",
-  "score": "10"
+  "data":
+  {
+      "id": 1,
+      "first_name": "John",
+      "last_name": "Smith",
+      "image_url": "https://miro.medium.com/max/1050/1*Y6l_FDhxOI1AhjL56dHh8g.jpeg",
+      "occupation": "Mechanical Engineer",
+      "linkedin_url": "",
+      "resume_url": "",
+      "date_applied": "17th June 2022",
+      "status": "accepted",
+      "score": "10",
+      "skills": [
+        "Java",
+        "Kotlin",
+        "Software Engineer",
+        "HTML",
+        "iOS Developer",
+        "Swift",
+      ]
+    }
 }
