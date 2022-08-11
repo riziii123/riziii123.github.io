@@ -10,43 +10,43 @@
       "linkedin_url": "",
       "resume_url": "",
       "date_applied": "17th June 2022",
-      "status": "accepted",
-      "score": "10"
+      "status": "Accepted",
+      "score": "5"
     },
     {
       "id": 2,
-      "first_name": "Johnn",
-      "last_name": "Smith",
-      "image_url": "https://miro.medium.com/max/1050/1*Y6l_FDhxOI1AhjL56dHh8g.jpeg",
+      "first_name": "Samantha",
+      "last_name": "Colon",
+      "image_url": "https://image.shutterstock.com/image-photo/profile-picture-smiling-millennial-asian-260nw-1836020740.jpg",
       "occupation": "Software Engineer",
       "linkedin_url": "",
       "resume_url": "",
-      "date_applied": "17th July 2022",
-      "status": "accepted",
-      "score": "10"
+      "date_applied": "3rd July 2022",
+      "status": "Rejected",
+      "score": "8"
     },
     {
       "id": 3,
-      "first_name": "Johnnn",
-      "last_name": "Smith",
-      "image_url": "https://miro.medium.com/max/1050/1*Y6l_FDhxOI1AhjL56dHh8g.jpeg",
+      "first_name": "Brad",
+      "last_name": "Miller",
+      "image_url": "https://thumbs.dreamstime.com/b/profile-picture-smiling-caucasian-male-employee-close-up-young-businessman-show-leadership-qualities-headshot-portrait-happy-204044575.jpg",
       "occupation": "Electrical Engineer",
       "linkedin_url": "",
       "resume_url": "",
       "date_applied": "17th August 2022",
-      "status": "accepted",
-      "score": "10"
+      "status": "Created",
+      "score": "6"
     },
     {
       "id": 4,
-      "first_name": "Johnnnn",
-      "last_name": "Smith",
-      "image_url": "https://miro.medium.com/max/1050/1*Y6l_FDhxOI1AhjL56dHh8g.jpeg",
-      "occupation": "Lawyer",
+      "first_name": "Rizwan",
+      "last_name": "Saleem",
+      "image_url": "https://media-exp1.licdn.com/dms/image/C4D03AQFg8GKQ3eh1CQ/profile-displayphoto-shrink_200_200/0/1625851257294?e=1665619200&v=beta&t=VAelXkR0gY4rOrsk-e3ZCMm5dmOJpgc1vb78FsvUqQI",
+      "occupation": "Mobile Engineer",
       "linkedin_url": "",
       "resume_url": "",
-      "date_applied": "17th September 2022",
-      "status": "accepted",
+      "date_applied": "10th December 2022",
+      "status": "Completed",
       "score": "10"
     }
   ]
